@@ -1,4 +1,4 @@
-const apiKey = '2305493215a24362ad4133218251001';
+const apiKey = ''; // Your Api from https://www.weatherapi.com/
 
 function getWeatherIcon(condition) {
     const conditionLowerCase = condition.toLowerCase();
